@@ -26,7 +26,11 @@ Checkout out the [documentation](https://content.nuxt.com/docs/getting-started) 
 ::alert
   :::prose-a
   Just some text
+  
+  oka
   :::
+
+another
 
 #booper
 Another thing

@@ -10,4 +10,4 @@ This is a ProseBlockquote component
 This is a ProseA component
 ::
 
-And this is some further text
+And this **is** some further text

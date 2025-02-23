@@ -10,9 +10,7 @@ navigation:
   icon: fas fa-cat
 ---
 
-# Kidneybean page
-
-This is some text
+# Kidney bean page
 
 ::prose-a
   :::counter
@@ -21,8 +19,24 @@ This is some text
 This is a ProseA component
 ::
 
-::prose-blockquote
-This is a ProseBlockquote component
+This is an h3 let's try to move it.
 
-This is a ProseBlockquote component2
+### This is some text
+
+## This is an h2 let's try to move it.
+
+#### This is an h4 let's try to move it.
+
+---
+
+*italic text*
+
+**bold try to move**
+
+![Luscious blueberries fill the screen](/blueberries.jpg)
+
+::prose-blockquote
+- This is a ProseBlockquote component
+
+This is a ProseB~~lockqu~~ote component2
 ::

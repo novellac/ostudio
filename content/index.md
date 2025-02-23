@@ -23,20 +23,18 @@ The current [alert](https://github.com/larbish/starter/blob/content/app/componen
 
 Checkout out the [documentation](https://content.nuxt.com/docs/getting-started) to learn more.
 
-::alert
----
-color: blue-200
----
+::alert{color="purple"}
   :::prose-a{href="https://example.com/cats" target="_blank"}
   Just some text that we can see here and it
   
   oka might be kind of long but we are doing it anyway
+  
+  afdgsdfg this is below the first
   :::
 
 another part of the default slot but we don't really know how this will play out and it lok
 
 oks like this is just a messy css implementation
-
-#booper
-Another thing
 ::
+
+#### a random h4

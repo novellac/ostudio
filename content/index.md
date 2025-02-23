@@ -24,13 +24,18 @@ The current [alert](https://github.com/larbish/starter/blob/content/app/componen
 Checkout out the [documentation](https://content.nuxt.com/docs/getting-started) to learn more.
 
 ::alert
-  :::prose-a
-  Just some text
+---
+color: blue-200
+---
+  :::prose-a{href="https://example.com/cats" target="_blank"}
+  Just some text that we can see here and it
   
-  oka
+  oka might be kind of long but we are doing it anyway
   :::
 
-another
+another part of the default slot but we don't really know how this will play out and it lok
+
+oks like this is just a messy css implementation
 
 #booper
 Another thing

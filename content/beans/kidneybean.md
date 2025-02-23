@@ -10,16 +10,19 @@ navigation:
   icon: fas fa-cat
 ---
 
+# Kidneybean page
+
 This is some text
 
 ::prose-a
+  :::counter
+  :::
+
 This is a ProseA component
 ::
 
-# Kidneybean page
-
 ::prose-blockquote
 This is a ProseBlockquote component
-::
 
-And this **is** some further text
+This is a ProseBlockquote component2
+::

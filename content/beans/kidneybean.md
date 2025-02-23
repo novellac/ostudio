@@ -1,3 +1,15 @@
+---
+title: title Kidneybean
+description: description Kidneybean
+seo:
+  title: seo title Kidneybean
+  description: seo descrip Kidneybean
+navigation:
+  title: nav title Kidneybean
+  description: nav descrip Kidneybean
+  icon: fas fa-cat
+---
+
 This is some text
 
 ::prose-a
